@@ -1,10 +1,6 @@
 # Remote Control for multiple PCs
 
-<video width="640" height="360" controls>
-        <source src="http://git.thijmens.nl/Tuinboon/remote_control/raw/branch/main/preview.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-</video>
-<img src="http://git.thijmens.nl/Tuinboon/remote_control/raw/branch/main/banner.png">
+<img widht="640" height="360" src="http://git.thijmens.nl/Tuinboon/remote_control/raw/branch/main/banner.png">
 
 A simple yet usefull python project to control multiple PCs from one central PC
 
@@ -15,7 +11,7 @@ The project consists of three parts:
 
 # How to use
 
-You can get started by git cloning this repo and following the preview video ^^ but that doesnt do much.
+You can get started by git cloning this repo and following the <a href="http://git.thijmens.nl/Tuinboon/remote_control/raw/branch/main/preview.mp4">preview video</a> but that doesnt do much.
 However you can add commands at `code/master/gui.py:75` to make the server recognize these you can add a new case to `code/server/server.py:58` and to make the client actually do something edit: `code/client/client.py:68`
 
 If you have any questions feel free to DM tuinboon on discord or slack
