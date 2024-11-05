@@ -1,6 +1,6 @@
 # Remote Control for multiple PCs
 
-<img src="https://github.com/TuinboonDev/blufferfish/blob/main/icon.png?raw=true">
+<img src="http://git.thijmens.nl/Tuinboon/remote_control/raw/branch/main/preview.mp4">
 <img src="https://github.com/TuinboonDev/blufferfish/blob/main/icon.png?raw=true">
 
 A simple yet usefull python project to control multiple PCs from one central PC
