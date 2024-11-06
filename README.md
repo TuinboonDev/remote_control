@@ -5,9 +5,9 @@
 A simple yet usefull python project to control multiple PCs from one central PC
 
 The project consists of three parts:
-    - The server: responsible for relaying data from the master to the clients
-    - The master terminal: responsible for sending commands to the clients/ server
-    - The cleint terminal: responsible for receiving and executing commands
+ - The server: responsible for relaying data from the master to the clients
+ - The master terminal: responsible for sending commands to the clients/ server
+ - The cleint terminal: responsible for receiving and executing commands
 
 # How to use
 
